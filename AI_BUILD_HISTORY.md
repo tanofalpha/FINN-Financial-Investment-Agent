@@ -114,11 +114,8 @@ I would also introduce structured extraction validation, atomic cache writes, an
 
 The following original conversations document the development and debugging process:
 
-- **Research pipeline design and implementation:** [Insert original conversation link]
-- **Gemini timeout, HTTP 503, and model selection:** [Insert original conversation link]
-- **Financial data quality and transcript extraction revisions:** [Insert original conversation link]
-- **Unicode/PDF caching error diagnosis:** [Insert original conversation link]
-- **Additional coding-agent conversations, where applicable:** [Insert links]
+- **Research pipeline design and implementation:** https://chatgpt.com/c/6ae9d111-fa6c-83ee-a8b2-1a07672b1f98
+
 
 These conversations are provided as direct evidence of how I worked with AI tools, evaluated their output, and iterated on the application.
 
