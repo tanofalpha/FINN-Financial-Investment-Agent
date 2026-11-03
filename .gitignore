@@ -1,0 +1,25 @@
+
+# API credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+.next/
+dist/
+build/
+
+# Research PDF and LLM cache
+backend/cache/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

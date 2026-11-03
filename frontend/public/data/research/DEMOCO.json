@@ -1,0 +1,15 @@
+{
+  "symbol": "DEMOCO", "sample": true,
+  "business": {
+    "summary": "Synthetic company used to demonstrate the research schema: a mid-size engineering-services business selling design and software services to automotive and industrial clients.",
+    "segments": [{"name": "Automotive", "pct": 58}, {"name": "Industrial", "pct": 27}, {"name": "Healthcare", "pct": 15}]
+  },
+  "pvd": [
+    {"period": "Q1 FY26", "metric": "Revenue growth", "promised": "Targeting double-digit YoY growth for the year.", "delivered": "9.2% YoY in the quarter.", "verdict": "missed", "source": "Q4 FY25 concall, p.4 · Q1 FY26 results"},
+    {"period": "Q2 FY26", "metric": "EBITDA margin", "promised": "Margin to hold around 24-25%.", "delivered": "24.6% reported.", "verdict": "met", "source": "Q1 FY26 concall, p.7 · Q2 FY26 results"},
+    {"period": "Q3 FY26", "metric": "Capex", "promised": "Capex of about 120 Cr this year.", "delivered": "95 Cr spent through nine months.", "verdict": "unclear", "source": "Q2 FY26 concall, p.11 · Annual report"},
+    {"period": "Q4 FY26", "metric": "Order book", "promised": "Order book to cross 3,000 Cr.", "delivered": "3,240 Cr at year end.", "verdict": "beat", "source": "Q3 FY26 concall, p.3 · Q4 FY26 deck"}
+  ],
+  "bull": ["Margins held within guided band for four quarters", "Order book ahead of target", "Low debt, so growth is self-funded"],
+  "bear": ["Revenue growth under the double-digit target", "58% of revenue from one cyclical sector", "Capex running behind plan, so capacity may lag demand"]
+}

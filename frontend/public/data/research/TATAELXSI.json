@@ -1,0 +1,104 @@
+{
+ "business": {
+  "summary": "Tata Elxsi Limited is a global provider of design-led technology services, embedded systems, and product engineering solutions. The company operates across verticals including Transportation (Mobility), Media & Communications, and Healthcare & Life Sciences, leveraging advanced digital technologies, design thinking, and artificial intelligence.",
+  "segments": [
+   {
+    "name": "Transportation",
+    "pct": 55.0
+   },
+   {
+    "name": "Media & Communications",
+    "pct": null
+   },
+   {
+    "name": "Healthcare & Life Sciences",
+    "pct": null
+   }
+  ]
+ },
+ "pvd": [
+  {
+   "period": "Next 2 to 3 quarters",
+   "metric": "margins",
+   "promised": "gradual improvement in our margins",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 19 Oct - Transcript of the Earnings Call held on October 13, 2026, p. 12"
+  },
+  {
+   "period": "H2 FY",
+   "metric": "revenue/growth",
+   "promised": "H2 is going to be better than H1",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 19 Oct - Transcript of the Earnings Call held on October 13, 2026, p. 15"
+  },
+  {
+   "period": "FY27",
+   "metric": "Revenue growth / aspiration (FY27)",
+   "promised": "Healthcare business to fire up to get to that sort of a growth rate",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 9"
+  },
+  {
+   "period": "FY27",
+   "metric": "automotive revenue growth",
+   "promised": "high-single digit exit, may not get into a double-digit for automotive",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 7"
+  },
+  {
+   "period": "Q4",
+   "metric": "margins",
+   "promised": "exit the next financial year somewhere near to 27% kind of a margin",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 9"
+  },
+  {
+   "period": "Financial Year",
+   "metric": "Revenue/growth",
+   "promised": "single digit, higher single digit growth for the financial year",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 14"
+  },
+  {
+   "period": "Financial Year",
+   "metric": "Revenue/growth",
+   "promised": "higher single digit is what we should look at",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 15"
+  },
+  {
+   "period": "FY'27",
+   "metric": "revenue/growth",
+   "promised": "FY'27 will be a growth year for us",
+   "delivered": "Not yet reported",
+   "verdict": "unclear",
+   "source": "Transcript, p. 18"
+  }
+ ],
+ "bull": [
+  "Transportation business achieved a year-on-year growth of 3.9% with strategic wins in Software Defined Vehicles (SDV) and increasing OEM revenue contribution up to around 75%.",
+  "Media & Communications posted a strong sequential growth of 9.5% in the final quarter of FY 2025-26, signaling a return to a growth trajectory.",
+  "Strong commitments and progress in sustainability, achieving a 72.7% reduction in GHG emissions intensity per employee and increasing renewable energy use to 66%."
+ ],
+ "bear": [
+  "Healthcare & Life Sciences business experienced a year-on-year decline of 10.7% impacted by the end of large regulatory programmes with lead customers.",
+  "Overall operating revenues for FY 2025-26 reflected modest growth of only 0.8% to 3,757.40 crore amidst challenging global headwinds.",
+  "Media & Communications overall annual revenue saw a degrowth of 1.2% year-on-year due to subdued business environments and clients reducing capex overhangs."
+ ],
+ "symbol": "TATAELXSI",
+ "sample": false,
+ "sources": [
+  "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211a23af-40e5-4714-a87f-98b232e17654.pdf",
+  "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a3ed22f-9093-413f-bbb3-76c8c62b4415.pdf",
+  "https://d1y69b020rytqm.cloudfront.net/PDF/Financial-Statements/April2026/TranscriptofEarningsCall31.03.2026.pdf",
+  "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f5cbac1-ae76-4172-b171-452a15c2e452.pdf",
+  "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9e33d3a-e315-45f6-9e6b-3ef91fb6ddee.pdf"
+ ]
+}

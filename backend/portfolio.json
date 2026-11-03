@@ -1,0 +1,24 @@
+{
+  "_note": "bse codes are best-effort; verify before relying on them. Research tickers can be any NSE symbol.",
+  "portfolio": [
+    {"symbol": "RELIANCE",   "name": "Reliance Industries",   "sector": "Energy/Conglomerate", "bse": "500325"},
+    {"symbol": "TCS",        "name": "Tata Consultancy",      "sector": "IT",                  "bse": "532540"},
+    {"symbol": "INFY",       "name": "Infosys",               "sector": "IT",                  "bse": "500209"},
+    {"symbol": "HDFCBANK",   "name": "HDFC Bank",             "sector": "Banking",             "bse": "500180"},
+    {"symbol": "ICICIBANK",  "name": "ICICI Bank",            "sector": "Banking",             "bse": "532174"},
+    {"symbol": "BAJFINANCE", "name": "Bajaj Finance",         "sector": "NBFC",                "bse": "500034"},
+    {"symbol": "ITC",        "name": "ITC",                   "sector": "FMCG",                "bse": "500875"},
+    {"symbol": "HINDUNILVR", "name": "Hindustan Unilever",    "sector": "FMCG",                "bse": "500696"},
+    {"symbol": "MARUTI",     "name": "Maruti Suzuki",         "sector": "Auto",                "bse": "532500"},
+    {"symbol": "SUNPHARMA",  "name": "Sun Pharma",            "sector": "Pharma",              "bse": "524715"},
+    {"symbol": "DRREDDY",    "name": "Dr. Reddy's",           "sector": "Pharma",              "bse": "500124"},
+    {"symbol": "LT",         "name": "Larsen & Toubro",       "sector": "Capital Goods",       "bse": "500510"},
+    {"symbol": "NTPC",       "name": "NTPC",                  "sector": "Power",               "bse": "532555"},
+    {"symbol": "ADANIENT",   "name": "Adani Enterprises",     "sector": "Conglomerate",        "bse": "512599"},
+    {"symbol": "TITAN",      "name": "Titan Company",         "sector": "Consumer",            "bse": "500114"},
+    {"symbol": "ASIANPAINT", "name": "Asian Paints",          "sector": "Consumer",            "bse": "500820"},
+    {"symbol": "ETERNAL",    "name": "Eternal (Zomato)",      "sector": "Internet",            "bse": "543320"},
+    {"symbol": "DIXON",      "name": "Dixon Technologies",    "sector": "Electronics Mfg",     "bse": "540699"}
+  ],
+  "research": ["TATAELXSI", "PIDILITIND", "POLYCAB", "KPITTECH"]
+}
